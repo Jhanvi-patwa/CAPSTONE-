@@ -1,1 +1,2 @@
-# CAPSTONE-
+# CAPSTONE PROJECT -
+# **Ecommerce Dataset: EDA**
